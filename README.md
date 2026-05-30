@@ -1,4 +1,4 @@
-# front-end-masterclass
+# frontend-masterclass
 Complete Frontend Development Guide - HTML, CSS, JavaScript,react
 
 # 🚀 Frontend Development Masterclass
